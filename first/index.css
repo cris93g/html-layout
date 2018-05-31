@@ -1,0 +1,22 @@
+body{
+    background-color:lightgray;
+    margin:0;
+    padding:0;
+}
+nav{
+    background-color:#413f3f;
+    height:150px;
+}
+main{
+ background:white;
+ margin-left:130px;
+ height:710px;
+ width:630px;
+ float:center;
+}
+footer{
+    background:rgb(36, 35, 35);
+    height:150px;
+    margin-left:130px;
+    margin-right:135px;
+}
